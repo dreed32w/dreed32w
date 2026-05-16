@@ -1,79 +1,168 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="MOHAMED Ilkhadry" width="60%"/> <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=MOHAMED%20ILKHADRY&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%" />
 
-# 👋 Hi, I'm MOHAMED ILKHADRY
+<br>
 
-### 💻 Software Developer | 🎮 Game Developer | 🤖 AI Enthusiast | 🎥 YouTuber
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Game+Developer;Software+Engineer" />
 
-<img src="https://komarev.com/ghpvc/?username=Mohamed%20Ilkhadry&style=flat&color=orange" />
+<br><br>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=2563eb"/>
+</a>
 
 <a href="https://www.linkedin.com/in/mohamedilkhadry12/">
-<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ilkhadry-blue?style=flat&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ilkhadry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=2563eb"/>
+
+</div>
+
+---
+
+# ABOUT ME
+
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+```txt
+Name        : Mohamed Ilkhadry
+Role        : Full Stack Developer
+Focus       : Cybersecurity & Software Engineering
+Experience  : Web Development, Desktop Apps, Game Development
+Passion     : Building scalable and creative digital products
+````
+
+<br>
+
+I enjoy building modern applications, experimenting with technologies,
+and improving my skills in software engineering and cybersecurity.
+
+My interests include:
+
+* Full Stack Web Development
+* Cybersecurity & Penetration Testing
+* Game Development with Unity & Godot
+* Backend Systems & Databases
+* UI/UX and Creative Interfaces
+* Linux & System Administration
+
+---
+
+# TECH STACK
+
+## Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp,c,cs,php" />
+</p>
+
+## Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,sass,react,jquery" />
+</p>
+
+## Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,mysql,firebase" />
+</p>
+
+## Cybersecurity & Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+</p>
+
+## Game Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=unity,godot" />
+</p>
+
+## Tools & Software
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,neovim,figma,photoshop,gimp,windows" />
+</p>
+
+---
+
+# GITHUB STATS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br><br>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# CURRENT FOCUS
+
+```yaml
+Learning:
+  - Advanced Backend Development
+  - Ethical Hacking & Security Testing
+  - Software Architecture
+  - APIs & Automation
+
+Building:
+  - Full Stack Platforms
+  - SaaS Applications
+  - Security Tools
+  - Game Projects
+```
+
+---
+
+# DEVELOPMENT PHILOSOPHY
+
+```cpp
+class MohamedIlkhadry {
+    
+    string mindset = "Build. Secure. Improve.";
+
+    void Develop() {
+
+        while(true) {
+            Learn();
+            Build();
+            Secure();
+            Optimize();
+        }
+    }
+};
+```
+
+---
+
+# CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohamedilkhadry12/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:2563eb"/>
 
--  I love **exploring, learning, and experimenting**
--  Building games using **Unity & Godot**
--  Developing software, tools, and creative ideas
--  Interested in ** future technologies**
--  Creating content and sharing knowledge
-
----
-
-## 🚀 Tech Stack
-
-###  Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![sass](https://img.shields.io/badge/Sass-fff?style=flat&logo=sass&logoColor=darkgreen)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-###  Web
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/php-20232A?style=flat&logo=php&logoColor=61DAFB)
-![Mysql](https://img.shields.io/badge/mysql-fff?style=flat&logo=mysql&logoColor=61DAFB)
-![Jquery](https://img.shields.io/badge/Jquery-fff?style=flat&logo=jquery&logoColor=61DAFB)
-
-
-###  Data
-![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
-
-###  Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
-
----
-
-##  Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=vscode,neovim,linux,windows,git,github,figma,photoshop,gimp,firebase" />
-
----
-
-## 👨‍💻 Coding Mindset
-
-```csharp
-class MedIlkhadry {
-    string mindset = "Explore. Learn. Experiment.";
-
-    void Build() {
-        while(true) {
-            Learn();
-            Create();
-            Improve();
-        }
-    }
-}
+</div>
