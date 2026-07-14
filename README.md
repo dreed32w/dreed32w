@@ -61,7 +61,7 @@ My interests include:
 ## Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,sass,react,jquery,react,inertiajs" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,jquery,react" />
 </p>
 
 ## Backend & Database
