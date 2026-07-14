@@ -55,19 +55,19 @@ My interests include:
 ## Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp,c,cs,php,laravel" />
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp,c,cs,php" />
 </p>
 
 ## Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,sass,react,jquery,react,inertia" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,react,jquery,react" />
 </p>
 
 ## Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=php,mysql,firebase,laravel,nodejs" />
 </p>
 
 ## Cybersecurity & Systems
